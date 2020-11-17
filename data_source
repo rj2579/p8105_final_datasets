@@ -1,0 +1,14 @@
+Data source
+
+1. Contraceptive use, contry level, on various years but not continuously: 
+    https://www.un.org/development/desa/pd/data/world-contraceptive-use
+    
+2. GDP, country level, 1960-2019: 
+    https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2018&locations=US&start=2018&view=chart
+    https://data.oecd.org/gdp/real-gdp-long-term-forecast.htm#indicator-chart
+    
+3. GDP, county level, 2015-2018: 
+    https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
+    
+4. Personal income and employment, NY state, 1998-2019: 
+    https://apps.bea.gov/regional/downloadzip.cfm
